@@ -1,1 +1,6 @@
-{"type":"dog","name":"Spike","breed":"mutt", "leash_color":"red"}
+{
+  "type": "dog",
+  "name": "Spike",
+  "breed": "mutt",
+  "leash_color": "red"
+}

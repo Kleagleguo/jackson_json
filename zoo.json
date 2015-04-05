@@ -1,7 +1,12 @@
 {
- "animals":
- [
-   {"type":"dog","name":"Spike"},
-   {"type":"cat","name":"Fluffy"}
- ]
+  "animals": [
+    {
+      "type": "dog",
+      "name": "Spike"
+    },
+    {
+      "type": "cat",
+      "name": "Fluffy"
+    }
+  ]
 }

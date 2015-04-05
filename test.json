@@ -1,4 +1,10 @@
 [
-  {"type":"dog","name":"Spike"},
-  {"type":"cat","name":"Fluffy"}
+  {
+    "type": "dog",
+    "name": "Spike"
+  },
+  {
+    "type": "cat",
+    "name": "Fluffy"
+  }
 ]
